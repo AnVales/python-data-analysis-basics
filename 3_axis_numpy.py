@@ -13,6 +13,6 @@ print(C)
 D = np.delete(B, 0, axis = 1)
 print(D)
 
-# añadir
+# añadir, hay que tener cuidado con donde lo metes
 E = np.append(B, [[6], [7]], axis = 1)
 print(E)
