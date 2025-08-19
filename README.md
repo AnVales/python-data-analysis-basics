@@ -11,4 +11,3 @@ Archivos de práctica → datasets en CSV y Excel para aplicar lo aprendido.
 Incluye scripts organizados por temas y pequeños proyectos de repaso para afianzar conocimientos.
 
 👉 Ideal como guía de referencia o bitácora de estudio para quienes están empezando en Data Analysis con Python.
-
